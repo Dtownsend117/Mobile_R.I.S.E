@@ -14,7 +14,6 @@ Since I have moved on from this project to focus on other work, the following is
 - the news command either dims the screen or opens a brief cmd window, requires a Rise restart
 - The health report command requires an elevated CMD window to display
 
-
 FOR STARTING:
 -To get the best use of R.I.S.E, you will first need to go to the scripts folder located in the Mobile R.I.S.E folder
 -Locate the "enableWSH" Registry file, double click to install it, and then click OK on the windows that appear after it
@@ -23,7 +22,7 @@ FOR STARTING:
 -If you want the program on your desktop, create a copy of all files(or shortcut R.I.S.E), otherwise, it will not work
 
 FOR TYPING:
--each command will need to be typed in all lowercase to work
+-each command will need to be typed in all lowercase to work(case sensitive)
 
 SYSTEM REQUIREMENTS:
 -Windows Operating System (any version)
