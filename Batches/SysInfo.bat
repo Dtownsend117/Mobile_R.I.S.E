@@ -1,0 +1,3 @@
+systeminfo.exe
+pause
+exit

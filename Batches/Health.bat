@@ -1,0 +1,3 @@
+powercfg -energy
+pause
+exit

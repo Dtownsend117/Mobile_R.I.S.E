@@ -1,0 +1,3 @@
+driverquery
+pause
+exit
