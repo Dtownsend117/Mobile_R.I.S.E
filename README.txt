@@ -1,3 +1,11 @@
+      R.I.S.E (Really Intelligent Software Emulator)
+----------------------------------------------------------------
+This was my first-ever attempt at creating a digital assistant of any kind, it was back in high school (2014ish)
+Although this digital assistant is nothing like JARVIS from the movies, RISE is still a great program to get started with if you're deciding on creating a digital assistant of your own someday.
+----------------------------------------------------------------
+
+
+
 HOW TO GET R.I.S.E:
 -Download the zip file
 -Extract the zip to your desktop(preferably into a new folder to keep all files together)
